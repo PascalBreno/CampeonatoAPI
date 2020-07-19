@@ -1,0 +1,15 @@
+C:\Users\Pascal\Documents\CursoApiNetCore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\Pascal\Documents\CursoApiNetCore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\Pascal\Documents\CursoApiNetCore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\Pascal\Documents\CursoApiNetCore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Pascal\Documents\CursoApiNetCore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Pascal\Documents\CursoApiNetCore\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Pascal\Documents\CursoApiNetCore\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Pascal\Documents\CursoApiNetCore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\Pascal\Documents\CursoApiNetCore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\Pascal\Documents\CursoApiNetCore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\Pascal\Documents\CursoApiNetCore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\Pascal\Documents\CursoApiNetCore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Users\Pascal\Documents\CursoApiNetCore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\Pascal\Documents\CursoApiNetCore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Pascal\Documents\CursoApiNetCore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache

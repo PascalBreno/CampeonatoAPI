@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "f/LOwpXpRN0GOC/ka08yEtHJZp4J6kUlkjuNegxBQ7Op4NjKwgZcOpyx2IXwId/y4vlXqGY9M0xLk1gRXt+rmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pascal\\Documents\\CursoApiNetCore\\src\\Api.Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pascal\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
+    "C:\\Users\\Pascal\\.nuget\\packages\\fluentvalidation\\9.0.1\\fluentvalidation.9.0.1.nupkg.sha512",
+    "C:\\Users\\Pascal\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Pascal\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

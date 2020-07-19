@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Pascal\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\Pascal\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Pascal\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Pascal\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_API.-1769865379.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Pascal\Documents\CursoApiNetCore\src" t="IncludeFlat">
+      <e p="Api.Application" t="IncludeRecursive">
+        <e p="Application.csproj" t="IncludeRecursive" />
+        <e p="AppServices" t="Include">
+          <e p="CampeonatoAppService.cs" t="Include" />
+          <e p="TimeAppService.cs" t="Include" />
+        </e>
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="CampeonatoController.cs" t="Include" />
+          <e p="TimeController.cs" t="Include" />
+        </e>
+        <e p="DependencyInjectionStartup" t="Include">
+          <e p="ConfigureAppService.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Application.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="Api.CrossCutting" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CrossCutting.csproj" t="IncludeRecursive" />
+        <e p="DependencyInjection" t="Include">
+          <e p="ConfigureMapping.cs" t="Include" />
+          <e p="ConfigureRepository.cs" t="Include" />
+          <e p="ConfigureService.cs" t="Include" />
+          <e p="ConfigureValidation.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="CrossCutting.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Api.Data" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Context" t="Include">
+          <e p="ContextFactory.cs" t="Include" />
+          <e p="MyContext.cs" t="Include" />
+        </e>
+        <e p="Data.csproj" t="IncludeRecursive" />
+        <e p="Mapping" t="Include">
+          <e p="CampeonatoMap.cs" t="Include" />
+          <e p="PartidaMap.cs" t="Include" />
+          <e p="PontuacaoCampeonatoMap.cs" t="Include" />
+          <e p="TimeMap.cs" t="Include" />
+        </e>
+        <e p="Migrations" t="Include">
+          <e p="20200712063920_InicialMigration.cs" t="Include" />
+          <e p="20200712063920_InicialMigration.Designer.cs" t="Include" />
+          <e p="20200714184156_BackEndUpdateMigration.cs" t="Include" />
+          <e p="20200714184156_BackEndUpdateMigration.Designer.cs" t="Include" />
+          <e p="20200715234015_unique.cs" t="Include" />
+          <e p="20200715234015_unique.Designer.cs" t="Include" />
+          <e p="20200716143853_AdicionaPontuacaoCampeonato.cs" t="Include" />
+          <e p="20200716143853_AdicionaPontuacaoCampeonato.Designer.cs" t="Include" />
+          <e p="20200716145247_AdicionaCodigoCampeonatoPartidaMap.cs" t="Include" />
+          <e p="20200716145247_AdicionaCodigoCampeonatoPartidaMap.Designer.cs" t="Include" />
+          <e p="20200716155213_AdicionaPontuacaoCampeonato2.cs" t="Include" />
+          <e p="20200716155213_AdicionaPontuacaoCampeonato2.Designer.cs" t="Include" />
+          <e p="20200716194207_RemoveQuartoTime.cs" t="Include" />
+          <e p="20200716194207_RemoveQuartoTime.Designer.cs" t="Include" />
+          <e p="20200717045230_TesteSeedInicial.cs" t="Include" />
+          <e p="20200717045230_TesteSeedInicial.Designer.cs" t="Include" />
+          <e p="20200718070724_AdicionaSeed.cs" t="Include" />
+          <e p="20200718070724_AdicionaSeed.Designer.cs" t="Include" />
+          <e p="MyContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Data.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Repository" t="Include">
+          <e p="Base" t="Include">
+            <e p="BaseRepository.cs" t="Include" />
+          </e>
+          <e p="CampeonatoRepository.cs" t="Include" />
+          <e p="PartidaRepository.cs" t="Include" />
+          <e p="PontuacaoCampeonatoRepository.cs" t="Include" />
+          <e p="TimeRepository.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Api.Domain" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Domain.csproj" t="IncludeRecursive" />
+        <e p="Entities" t="Include">
+          <e p="BaseEntity.cs" t="Include" />
+          <e p="CampeonatoEntity.cs" t="Include" />
+          <e p="PartidaEntity.cs" t="Include" />
+          <e p="PontuacaoCampeonatoEntity.cs" t="Include" />
+          <e p="TimeEntity.cs" t="Include" />
+        </e>
+        <e p="Interfaces" t="Include">
+          <e p="AppService" t="Include">
+            <e p="Base" t="Include">
+              <e p="IBaseAppServices.cs" t="Include" />
+            </e>
+            <e p="ICampeonatoAppService.cs" t="Include" />
+            <e p="ITimeAppService.cs" t="Include" />
+          </e>
+          <e p="Repository" t="Include">
+            <e p="Base" t="Include">
+              <e p="IRepository.cs" t="Include" />
+            </e>
+            <e p="IcampeonatoRepository.cs" t="Include" />
+            <e p="IPartidaRepository.cs" t="Include" />
+            <e p="IPontuacaoCampeonatoRepository.cs" t="Include" />
+            <e p="ITimeRepository.cs" t="Include" />
+          </e>
+          <e p="Services" t="Include">
+            <e p="Base" t="Include">
+              <e p="IBaseService.cs" t="Include" />
+            </e>
+            <e p="ICampeonatoService.cs" t="Include" />
+            <e p="IPartidaService.cs" t="Include" />
+            <e p="ITimeService.cs" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Domain.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PageList" t="Include">
+          <e p="AutoMapperExtensions.cs" t="Include" />
+          <e p="PagedList.cs" t="Include" />
+        </e>
+        <e p="Parameters" t="Include">
+          <e p="ParametersPage.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Api.Service" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Mapping" t="Include">
+          <e p="MappingProfile.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Service.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Service.csproj" t="IncludeRecursive" />
+        <e p="Services" t="Include">
+          <e p="CampeonatoService.cs" t="Include" />
+          <e p="PartidaService.cs" t="Include" />
+          <e p="TimeService.cs" t="Include" />
+        </e>
+        <e p="Validation" t="Include">
+          <e p="AdicionarCampeonatoViewModelValidation.cs" t="Include" />
+          <e p="AlterarCampeonatoViewModelValidation.cs" t="Include" />
+          <e p="Time" t="Include">
+            <e p="AdicionarTimeViewModelValidation.cs" t="Include" />
+          </e>
+        </e>
+        <e p="ViewModel" t="Include">
+          <e p="Base" t="Include">
+            <e p="Page.cs" t="Include" />
+          </e>
+          <e p="Campeonato" t="Include">
+            <e p="AdicionarCampeonatoViewModel.cs" t="Include" />
+            <e p="AlterarCampeonatoViewModel.cs" t="Include" />
+            <e p="CampeonatoViewModel.cs" t="Include" />
+            <e p="DataPermitida.cs" t="Include" />
+          </e>
+          <e p="Partida" t="Include">
+            <e p="AdicionarPartidaViewModel.cs" t="Include" />
+            <e p="PartidaViewModel.cs" t="Include" />
+          </e>
+          <e p="Time" t="Include">
+            <e p="AdicionarTimeViewModel.cs" t="Include" />
+            <e p="AlterarTimeViewModel.cs" t="Include" />
+            <e p="TimeViewModel.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="API.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
